@@ -10,36 +10,22 @@ export const categories: Props[] = [
   {
     title: "Technology",
     slug: "technology",
-    color: "blue",
+    color: "purple",
     description:
       "Keep up with the latest tech trends and learn about the latest innovations in software development, hardware design, cybersecurity, and more.",
   },
   {
-    title: "Lifestyle",
-    slug: "lifestyle",
-    color: "orange",
+    title: "Swimming",
+    slug: "swimming",
+    color: "blue",
     description:
-      "Explore the latest trends and ideas in fashion, food, home design, and more, and get inspiration for living your best life.",
+      "Learn how to swim, improve your swimming technique, and have fun in the water with these tips and resources for swimmers of all levels.",
   },
   {
     title: "Personal",
     slug: "personal",
     color: "green",
     description:
-      "Discover tips and strategies for self-improvement, personal development, and achieving your goals, and find resources to help you grow as a person.",
-  },
-  {
-    title: "Travel",
-    slug: "travel",
-    color: "pink",
-    description:
-      "Plan your next adventure and get travel tips and inspiration from experienced travelers, with articles covering destinations, cultures, and more.",
-  },
-  {
-    title: "Design",
-    slug: "design",
-    color: "purple",
-    description:
-      "Get insights and inspiration from the world of design, with articles covering graphic design, product design, interior design, and more.",
+      "Discover how to improve your personal development, build better habits, and achieve your goals with these resources and guides.",
   },
 ];
